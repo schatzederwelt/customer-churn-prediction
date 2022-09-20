@@ -51,15 +51,6 @@ KPI успеха проекта - `F1-score >= 0.59`
 <br> ✔️ Пайплайны обработки данных</br>
 </div>
 
-## Инструменты
-
-<div class="alert alert-success">
-<br> ✔️ LinearRegression ✔️ DecisionTree ✔️ RandomForest </br>
-<br> ✔️ validation_curve ✔️ learning_curve </br>
-<br> ✔️ DummyClassifier  ✔️ Downsampling & Upsampling</br>
-<br> ✔️ precision_recall_curve  ✔️ classification_report </br>
-</div>
-
 ## Исходные данные
 
 
