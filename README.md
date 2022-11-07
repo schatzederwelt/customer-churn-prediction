@@ -1,5 +1,5 @@
 # Предиктивный анализ оттока клиентов
-![churn customer](https://static9.depositphotos.com/1202020/1221/i/600/depositphotos_12212262-stock-photo-marketing-campaign-business-success.jpg)
+<!---![churn customer](https://static9.depositphotos.com/1202020/1221/i/600/depositphotos_12212262-stock-photo-marketing-campaign-business-success.jpg)--->
 ## Описание проекта
 
 **ЦЕЛЬ ПРОЕКТА:**
